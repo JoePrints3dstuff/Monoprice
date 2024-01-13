@@ -12,4 +12,6 @@ MPMU2-Marlin-2.1.3-start-end-gcode.txt - Start and end gcode for the custom Marl
 
 MPMU2-Marlin-2.1.3.hex                 - Custom firmware for the MPMU2
 
+MPMU2-Marlin-2.1.3-bedfix.hex          - Custom firmware for the MPMU2 use this if you have issues heating your bed.
+
 WBSFirmwareUploadtoolV2.3.zip          - Windows based firmware flashing tool.
